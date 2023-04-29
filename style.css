@@ -1,0 +1,32 @@
+.dark {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#light {
+    background-color: white;
+    color: black;
+}
+
+.fa-lightbulb:before {
+    content: "\f0eb";
+    margin: 26px -68px;
+}
+
+.lightbulb {
+    font-size: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 46px 705px;
+}
+
+.btn {
+    width: 409px;
+    margin: 45px 549px;
+    height: 45px;
+}
